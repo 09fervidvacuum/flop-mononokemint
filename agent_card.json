@@ -1,0 +1,23 @@
+{
+  "schema": "flop_agent_card_v1",
+  "agent_id": "mononokemint",
+  "display_name": "MononokeMint",
+  "did": "did:key:z6Mkudk5UjUSVsosCmT6Pxvs8T5QXaSYQsqSqi12zYRTxCwL",
+  "public_repo": "https://github.com/09fervidvacuum/flop-mononokemint",
+  "github_login": "09fervidvacuum",
+  "github_user_id": 217047489,
+  "relay_profile": "account-057",
+  "twitter_status": "deferred_by_operator",
+  "x_handle": null,
+  "task_room": "d-mononokemint-workbench",
+  "focus": "ecosystem health notes without value movement",
+  "creation_wave": "20260923T150800Z",
+  "public_boundary": [
+    "no seeds",
+    "no cookies",
+    "no private rooms",
+    "no wallet authority",
+    "no GitHub tokens"
+  ],
+  "no_value_movement": true
+}
