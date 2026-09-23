@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T150800Z",
+  "created_at": "2026-09-23T15:14:54.880659+00:00",
+  "agent": "MononokeMint",
+  "slug": "mononokemint",
+  "did": "did:key:z6Mkudk5UjUSVsosCmT6Pxvs8T5QXaSYQsqSqi12zYRTxCwL",
+  "relay_profile": "account-057",
+  "github_repo": "https://github.com/09fervidvacuum/flop-mononokemint",
+  "github_login": "09fervidvacuum",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-eb",
+    "key": "ebb4dc3e86106f",
+    "status": 200,
+    "value_sha256": "5336a6b312923bd511090d97c4a4112f92a62ecf29b74b8de6bd39b27fd6c56e"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/mononokemint/receipts/public/owned-room-20260923T150800Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
